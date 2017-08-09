@@ -1,0 +1,29 @@
+{
+  "name": "create-angular-components",
+  "version": "1.0.0",
+  "description": "Tool that allows you to create Angular (4+) components from HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiboy/create-angular-components.git"
+  },
+  "author": "Alexey Okhrimenko",
+  "license": "MIT",
+  "bin": {
+    "create-angular-components": "./cli.js",
+    "cac": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/aiboy/create-angular-components/issues"
+  },
+  "homepage": "https://github.com/aiboy/create-angular-components#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "dashify": "^0.2.2",
+    "fs-extra": "^4.0.1",
+    "jsdom": "^11.1.0"
+  }
+}
