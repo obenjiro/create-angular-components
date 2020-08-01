@@ -1,5 +1,5 @@
 # Create Angular Components
-Tool that allows you to create Angular (4+) components from HTML
+Tool that allows you to create Angular (10+) components from HTML
 
 # Install
 ```
