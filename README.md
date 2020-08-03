@@ -8,7 +8,7 @@ npm install -g create-angular-components
 
 # Prepare
 Add *data-component* attribute for every component in your markup 
-PS: Use CamelCase
+PS: Use UpperCamelCase
 ```html
    <div data-component="Test">
         <h1>Test</h1>
