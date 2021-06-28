@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/aiboy/create-angular-components#readme",
   "dependencies": {
-    "commander": "^6.0.0",
+    "commander": "^8.0.0",
     "dashify": "^2.0.0",
     "fs-extra": "^9.0.1",
     "jsdom": "^16.2.2"
